@@ -1,7 +1,7 @@
 # kaggle-challange-imageclassification
 
 ## overview
-This is a kaggle challange to develop a custom dataset and build a classification model. Given are the images segregated by class in folders, with the folder name being the class name. The source dataset can be downloaded from here: <insert_drive_link> 
+This is a kaggle challange to develop a custom dataset and build a classification model. Given are the images segregated by class in folders, with the folder name being the class name. 
 
 ## dataset implementaion
 *data.py*  
