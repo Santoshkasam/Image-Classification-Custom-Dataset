@@ -11,3 +11,4 @@ The custom dataset module is implemented in this file. glob module is used to fe
 *model.py*  
 Using transfer learning a VGG16 model pre-trianed on Imagenet dataset is imported from pytorch models library. the final layer of the VGG16 classifier is modefied to have 20 neurons. an additional MLP head is added to reduce the output to 8 classes.
 
+Refer the Evaluate.ipynb for the model evaluation program
